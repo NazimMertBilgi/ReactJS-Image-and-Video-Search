@@ -2,7 +2,7 @@
 Get millions of photos and videos in seconds with [ReactJS Framework](https://reactjs.org/).
 
 # AngularJS Version
-Access the application created with AngularJS **[here](https://nazimmertbilgi.github.io/AngularJS-Image-and-Video-Search/)**.
+Access the application created with AngularJS **[here](https://github.com/NazimMertBilgi/AngularJS-Image-and-Video-Search)**.
 
 ## Demo
 You can start the search with  **[this link](https://nazimmertbilgi.github.io/ReactJS-Image-and-Video-Search/)**
