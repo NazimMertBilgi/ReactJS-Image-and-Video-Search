@@ -7,7 +7,7 @@ Access the application created with AngularJS **[here](https://nazimmertbilgi.gi
 ## Demo
 You can start the search with  **[this link](https://nazimmertbilgi.github.io/ReactJS-Image-and-Video-Search/)**
 
-![ReactJS - Image and Video Search](assets/images/readme-preview.jpg)
+![ReactJS - Image and Video Search](src/assets/images/readme-preview.jpg)
 
 ## Configurations
 You can find all configurations inside the `constants/pixabay.constants.js`
