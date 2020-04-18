@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/ReactJS-Image-and-Video-Search/static/css/main.73b7f6f8.chunk.css",
+    "main.js": "/ReactJS-Image-and-Video-Search/static/js/main.bd1693df.chunk.js",
+    "main.js.map": "/ReactJS-Image-and-Video-Search/static/js/main.bd1693df.chunk.js.map",
+    "runtime-main.js": "/ReactJS-Image-and-Video-Search/static/js/runtime-main.59766fdb.js",
+    "runtime-main.js.map": "/ReactJS-Image-and-Video-Search/static/js/runtime-main.59766fdb.js.map",
+    "static/js/2.a9a50ac5.chunk.js": "/ReactJS-Image-and-Video-Search/static/js/2.a9a50ac5.chunk.js",
+    "static/js/2.a9a50ac5.chunk.js.map": "/ReactJS-Image-and-Video-Search/static/js/2.a9a50ac5.chunk.js.map",
+    "index.html": "/ReactJS-Image-and-Video-Search/index.html",
+    "precache-manifest.9f3fd144051b5691c602dd2bc7a7bea7.js": "/ReactJS-Image-and-Video-Search/precache-manifest.9f3fd144051b5691c602dd2bc7a7bea7.js",
+    "service-worker.js": "/ReactJS-Image-and-Video-Search/service-worker.js",
+    "static/css/main.73b7f6f8.chunk.css.map": "/ReactJS-Image-and-Video-Search/static/css/main.73b7f6f8.chunk.css.map",
+    "static/js/2.a9a50ac5.chunk.js.LICENSE.txt": "/ReactJS-Image-and-Video-Search/static/js/2.a9a50ac5.chunk.js.LICENSE.txt",
+    "static/media/font-awesome.min.css": "/ReactJS-Image-and-Video-Search/static/media/fontawesome-webfont.fee66e71.woff",
+    "static/media/bootstrap.min.css": "/ReactJS-Image-and-Video-Search/static/media/glyphicons-halflings-regular.fa277232.woff",
+    "static/media/sifirbir.mp3": "/ReactJS-Image-and-Video-Search/static/media/sifirbir.056185cd.mp3"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.59766fdb.js",
+    "static/js/2.a9a50ac5.chunk.js",
+    "static/css/main.73b7f6f8.chunk.css",
+    "static/js/main.bd1693df.chunk.js"
+  ]
+}
