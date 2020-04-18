@@ -5,7 +5,7 @@ function ForkGithub() {
   return (
     <div>
       <a
-        href="https://github.com/NazimMertBilgi/AngularJS-Image-and-Video-Search"
+        href="https://github.com/NazimMertBilgi/ReactJS-Image-and-Video-Search"
         className="fork-me-on-github-sticker">
         <img
           src={gitHubSticker}
